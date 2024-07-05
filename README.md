@@ -22,9 +22,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./Desktop view1.png)
-![Mobile View](./Mobile view1.png)
-![Mobile View](./Mobile view2.png)
+**Desktop and Mobile View**
+![image](https://github.com/abuzerexe/Testimonials-Using-CSS-grid-flexbox/assets/140898970/f6f55dc3-1c6f-483f-a527-00c3ad36d8dd)
+![image](https://github.com/abuzerexe/Testimonials-Using-CSS-grid-flexbox/assets/140898970/d7e2fe49-bc88-4392-a4da-69d7bf9d7a1a)
+![image](https://github.com/abuzerexe/Testimonials-Using-CSS-grid-flexbox/assets/140898970/fb56fff0-c656-4376-a66c-e07f2773f2c5)
 
 
 ### Links
@@ -50,7 +51,6 @@ Youtube- [Traversy Media](https://www.youtube.com/@TraversyMedia)
 
 ## Author
 
-- Frontend Mentor - [@abuzerexe](https://www.frontendmentor.io/profile/abuzerexe)
 - LinkedIn - [Muhammad Abuzer Zia](https://www.linkedin.com/in/abuzerzia/) 
 
 
